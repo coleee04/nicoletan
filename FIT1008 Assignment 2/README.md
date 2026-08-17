@@ -2,7 +2,7 @@
 
 ## Overview
 
-Developed components of a Python-based football season management system as part of **FIT1008 – Introduction to Computer Science**.
+Developed components of a Python-based football season management system as part of FIT1008 – Fundamentals of Algorithms.
 
 The project focused on applying data structures and algorithmic techniques to manage players, teams, match results, season standings and date-based information. A major component involved implementing custom hash-table behaviour, including **double hashing, collision resolution, lazy deletion and dynamic rehashing**.
 
