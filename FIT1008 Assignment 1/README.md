@@ -2,7 +2,7 @@
 
 ## Overview
 
-Developed a Python-based multiplayer card game simulation as part of FIT1008 – Introduction to Computer Science.
+Developed a Python-based multiplayer card game simulation as part of FIT1008 – Fundamentals of Algorithms.
 
 The project focused on applying object-oriented programming, algorithms and abstract data structures under restricted implementation constraints. Python built-in collections such as lists, dictionaries, tuples and sets were not permitted, so the game logic was implemented using the custom data structures provided in the project scaffold.
 
